@@ -1,7 +1,6 @@
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.Component;
-import java.awt.GridLayout;
 
 public class VotingSystem
 {
